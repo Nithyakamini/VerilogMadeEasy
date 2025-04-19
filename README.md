@@ -12,3 +12,11 @@ full_adder.v ==> Full adder using basic gates
 full_subtractor.v ==> Full subtractor using basic gates
 
 mux.v ==> 4 : 1 multiplexer
+
+mealy.v ==> FSM Mealy model
+
+moore.v ==> FSM Moore model
+
+rca.v ==> 8-bit Ripple Carry Adder
+
+cla.v ==> 8-bit Carry Look Ahead Adder
