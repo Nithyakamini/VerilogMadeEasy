@@ -12,5 +12,3 @@ full_adder.v ==> Full adder using basic gates
 full_subtractor.v ==> Full subtractor using basic gates
 
 mux.v ==> 4 : 1 multiplexer
-
-top_mod.v
