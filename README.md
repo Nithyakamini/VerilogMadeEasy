@@ -41,9 +41,9 @@ SISO_4.v ==> Serial In Serial Out SR
 
 univ.v ==> Universal Shift Register
 
-ripple.v ==> 8-bit Ripple Counter
+ripple.v ==> 4-bit Ripple Counter
 
-sync.v ==> 8-bit Syncronous Counter
+sync.v ==> 4-bit Syncronous Counter
 
 
 
