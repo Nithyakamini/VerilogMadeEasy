@@ -43,6 +43,7 @@ univ.v ==> Universal Shift Register
 
 ripple.v ==> 8-bit Ripple Counter
 
+sync.v ==> 8-bit Syncronous Counter
 
 
 
